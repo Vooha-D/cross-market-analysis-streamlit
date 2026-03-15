@@ -19,3 +19,5 @@ SQL analytics and a Streamlit dashboard.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
